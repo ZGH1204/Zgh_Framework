@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f55bd181c833424fac4bacad0d4d37f, type: 3}
+  m_Name: Localizable Text Example
+  m_EditorClassIdentifier: 
+  m_CurrentLocale: ko
+  m_DefaultText: Good day! :)
+  m_LocaleOverrides:
+  - m_Identifier: ar
+    m_Data: "\u064A\u0648\u0645 \u062C\u064A\u062F! :)"
+  - m_Identifier: da
+    m_Data: God dag! :)
+  - m_Identifier: de
+    m_Data: Guten Tag! :)
+  - m_Identifier: es
+    m_Data: "\xA1Buenos d\xEDas! :)"
+  - m_Identifier: fr
+    m_Data: Bonjour! :)
+  - m_Identifier: it
+    m_Data: Buona giornata! :)
+  - m_Identifier: iw
+    m_Data: "\u05D9\u05D5\u05DD \u05D8\u05D5\u05D1! :)"
+  - m_Identifier: ja
+    m_Data: "\u826F\u3044\u4E00\u65E5! :)"
+  - m_Identifier: ko
+    m_Data: "\uC88B\uC740 \uD558\uB8E8! :)"
+  - m_Identifier: pl
+    m_Data: "Dzie\u0144 dobry! :)"
+  - m_Identifier: pt
+    m_Data: Bom dia! :)
+  - m_Identifier: ru
+    m_Data: "\u0414\u043E\u0431\u0440\u044B\u0439 \u0434\u0435\u043D\u044C! :)"
+  - m_Identifier: zh
+    m_Data: "\u4F60\u597D! :)"
+  - m_Identifier: ms
+    m_Data: Selamat tengah hari! :)
+  m_LocalizedText: []
