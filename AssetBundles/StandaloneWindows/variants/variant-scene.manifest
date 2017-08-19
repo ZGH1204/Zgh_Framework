@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1651033322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 475808bf18e1820d00fe2a85ae8985a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Plugins/AssetbundleDemo/demo/Assets/AssetBundleSample/Assets/Variants/VariantScene.unity
+Dependencies:
+- E:/GitHub_Work/Zgh_Framework/AssetBundles/StandaloneWindows/variants/myassets.hd

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1062560946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38188b4256781fbc79deba2b3062b939
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0615fdd8182050e228ba12bfa176028d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Plugins/AssetbundleDemo/demo/Assets/AssetBundleSample/Assets/MyCube.prefab
+Dependencies:
+- E:/GitHub_Work/Zgh_Framework/AssetBundles/StandaloneWindows/material-bundle
